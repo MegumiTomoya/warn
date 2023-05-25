@@ -1,0 +1,238 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Warning",
+      "publisher": "Lelou Wallpapers",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/tray.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.warning_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/warnlelou",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/warnpp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/1/16.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Admin pack",
+      "publisher": "Lelou Wallpapers",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/tray.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.warning_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/adminlelou",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/warnpp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/2/16.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Spoilers Alert",
+      "publisher": "Lelou Wallpapers",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/tray.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.warning_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/spoilerlelou",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/warnpp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/warn/main/3/16.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    }
+  ]
+}
